@@ -1,5 +1,6 @@
 # Relay Star Wars
 
+This is version of star-wars eample has add ship feature using graphql mutation.
 ## Installation
 
 ```
